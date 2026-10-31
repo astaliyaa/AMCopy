@@ -48,7 +48,7 @@ targets:
               - public.aiff-audio
     settings:
       base:
-        PRODUCT_BUNDLE_IDENTIFIER: com.personal.encore
+        PRODUCT_BUNDLE_IDENTIFIER: com.astaliya.encore # your registered App ID; CI signs this one
         TARGETED_DEVICE_FAMILY: "1"
         ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
         ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME: AccentColor

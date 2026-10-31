@@ -16,4 +16,8 @@ xcuserdata/
 *.mobileprovision
 *_BASE64.txt
 *_PASSWORD.txt
-encore-signing/
+
+# fastlane output
+fastlane/report.xml
+fastlane/README.md
+fastlane/test_output/
