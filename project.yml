@@ -24,7 +24,8 @@ targets:
     info:
       path: Encore/Info.plist
       properties:
-        CFBundleDisplayName: Encore
+        CFBundleDisplayName: Encorerlyyyy # must not be another App Store app's name
+        CFBundleName: Encorerlyyyy
         CFBundleShortVersionString: $(MARKETING_VERSION)
         CFBundleVersion: $(CURRENT_PROJECT_VERSION)
         UILaunchScreen: {}
