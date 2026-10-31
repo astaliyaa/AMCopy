@@ -1,0 +1,19 @@
+*.xcodeproj/
+build/
+DerivedData/
+Payload/
+*.ipa
+.DS_Store
+xcuserdata/
+
+# Signing material — never commit (this repo is public)
+*.p12
+*.p8
+*.key
+*.pem
+*.cer
+*.csr
+*.mobileprovision
+*_BASE64.txt
+*_PASSWORD.txt
+encore-signing/

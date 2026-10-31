@@ -1,0 +1,3 @@
+# Keep LF everywhere: the build runs on macOS and bash can't run scripts with CRLF.
+* text=auto eol=lf
+*.png binary
